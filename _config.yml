@@ -1,0 +1,28 @@
+name: CraigNorthrup
+favicon: null
+layout_spectrum: 0.5506537030451
+typography_spectrum: 0.14277980290353298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10833227168768644
+  lightness: 0.4103480074554682
+  saturation: 0.1612458978779614
+  rhythmicContrast: 0.4460695954039693
+purpose: []
